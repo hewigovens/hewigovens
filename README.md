@@ -32,7 +32,7 @@ As a staff blockchain engineer at Trust Wallet, I used to contribute and open so
 - [📦 blockbook](https://github.com/trezor/blockbook) Trezor address/account balance backend.
 - <redacted>...
 
-A few free macOS and iOS apps that I developed in my early days include [GhostTile](https://ghosttile.kernelpanic.im/), [Inspect](https://apps.apple.com/us/app/inspect-view-tls-certificate/id1074957486), and [Anytime] (https://apps.apple.com/fi/app/anytime-timezone-calculator/id1291735859).
+A few free macOS and iOS apps that I developed in my early days include [GhostTile](https://ghosttile.kernelpanic.im/), [Inspect](https://apps.apple.com/us/app/inspect-view-tls-certificate/id1074957486), and [Anytime](https://apps.apple.com/fi/app/anytime-timezone-calculator/id1291735859).
 
 ## Coding
 
