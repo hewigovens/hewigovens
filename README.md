@@ -15,7 +15,9 @@ I am Tao, a 🥷 developer and consultant residing in Tokyo, Japan. I'm a big lo
 
 <details>
   <summary>Checkout my latest starred repos -></summary>
-[![Last Stars Display](https://badges.pufler.dev/last-stars/pujux?count=6&padding=15&perRow=3)](https://badges.pufler.dev)
+<a href="https://github.com/hewigovens?tab=stars">
+  <img src="https://badges.pufler.dev/last-stars/pujux?count=6&padding=15&perRow=3" />
+</a>
 </details>
 
 </br>
