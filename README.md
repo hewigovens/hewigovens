@@ -22,7 +22,7 @@ I am Tao, a 🥷 developer and consultant residing in Tokyo, Japan. I'm a big lo
 
 </br>
 
-As a staff blockchain engineer at Trust Wallet, I used to contribute and open source a significant amount of code while I was a member of the app's development team.
+As a former staff blockchain engineer at Trust Wallet, I used to contribute and open source a significant amount of code while I was a member of the app's development team.
 
 - [📱 Trust Wallet iOS](https://github.com/trustwallet/trust-wallet-ios), of the most widely used mobile wallets; active since 2018.
 - [🏛️ Wallet Core](https://github.com/trustwallet/wallet-core), cross-chain and cross-platform core library for the browser extension and mobile apps for Trust Wallet.
@@ -48,9 +48,6 @@ A few free macOS and iOS apps that I developed in my early days include [GhostTi
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Astro" src="https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Xcode" src="https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
