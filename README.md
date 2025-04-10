@@ -9,9 +9,7 @@
   <img src="https://img.shields.io/github/followers/hewigovens?style=social">
 </a>
 
-Welcome to my profile!
-
-I am Tao, a 🥷 developer and consultant residing in Tokyo, Japan. I'm a big lover of open source and am now experimenting with things like Rust, ZK, and LLMs.
+This is Tao, a 🥷 developer and consultant residing in Tokyo, Japan. I'm a big lover of open source and am now experimenting with things like Rust, ZK, and LLMs.
 
 <details>
   <summary>Checkout my latest starred repos -></summary>
