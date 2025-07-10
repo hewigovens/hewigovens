@@ -1,11 +1,5 @@
 # Hi, I'm Tao 👋
 <a href="https://github.com/hewigovens">
-  <img src="https://badges.pufler.dev/visits/hewigovens/hewigovens?style=flat-square&logo=github">
-</a>
-<a href="https://github.com/hewigovens?tab=repositories">
-  <img src="https://badges.pufler.dev/repos/hewigovens?style=flat-square&logo=github">
-</a>
-<a href="https://github.com/hewigovens">
   <img src="https://img.shields.io/github/followers/hewigovens?style=social">
 </a>
 
