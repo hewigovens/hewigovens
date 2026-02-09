@@ -18,7 +18,7 @@ I'm a 🥷 developer based in Tokyo, Japan. Passionate about open source, curren
 
 Projects I'm recently developing and sharing with the community:
 
-- [🔐 hw-core](https://github.com/hewigovens/hw-core) – Rust host-to-hardware wallet core targeting the Trezor Host Protocol.
+- [🔐 hw-core](https://github.com/hewigovens/hw-core) – Cross platform hardware wallet interface by Rust, support Trezor Safe 7 (THP).
 - [🧵 amux](https://github.com/hewigovens/amux) – Agent multiplexer CLI for managing tmux sessions for local AI/code agents.
 - [🌐 MISO](https://github.com/hewigovens/miso) - Method Input Switch Overlay
 - [🔍 BTMParser](https://github.com/hewigovens/BTMParser) – Parse BTM (Binary Task Manager) files.
