@@ -41,7 +41,7 @@ As a former staff blockchain engineer at Trust Wallet, I contributed and open so
 A few free macOS and iOS apps I built in my early days:
 - [GhostTile](https://ghosttile.kernelpanic.im/)
 - [Inspect](https://apps.apple.com/us/app/inspect-view-tls-certificate/id1074957486)
-- [Anytime](https://apps.apple.com/fi/app/anytime-timezone-calculator/id1291735859)
+- [Anytime](https://apps.apple.com/us/app/anytime-timezone-calculator/id1291735859)
 
 ## 🛠️ Tech Stack
 
@@ -56,24 +56,6 @@ A few free macOS and iOS apps I built in my early days:
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-</p>
-
-**Platforms & Tools:**
-<p>
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="WebAssembly" src="https://img.shields.io/badge/-WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Xcode" src="https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="pnpm" src="https://img.shields.io/badge/-PNPM-F69220?style=flat-square&logo=pnpm&logoColor=white" />
-  <img alt="fish shell" src="https://img.shields.io/badge/-Fish-34C534?style=flat-square&logo=fish-shell&logoColor=white" />
-  <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img alt="Replit" src="https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit&logoColor=white" />
 </p>
 
 ## 📬 Contact
