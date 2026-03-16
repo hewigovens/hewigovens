@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/github/followers/hewigovens?style=social">
 </a>
 
-I'm a 🥷 developer based in Tokyo, Japan. Passionate about open source, currently exploring Rust, ZK, and LLMs. I love building tools and sharing knowledge with the community.
+Tokyo-based 🥷 engineer focused on open-source wallets, cryptography, and tooling. I'm currently deep in Rust, ZK, and LLM agents—building in public and sharing everything I learn.
 
 <details>
   <summary>Check out my latest starred repos</summary>
@@ -16,34 +16,54 @@ I'm a 🥷 developer based in Tokyo, Japan. Passionate about open source, curren
 
 ## 🚀 Build in Public
 
-Projects I'm recently developing and sharing with the community:
-
-- [🔐 hw-core](https://github.com/hewigovens/hw-core) – Cross platform hardware wallet interface by Rust, support Trezor Safe 7 (THP).
-- [🧵 amux](https://github.com/hewigovens/amux) – Agent multiplexer CLI for managing tmux sessions for local AI/code agents.
-- [🌐 MISO](https://github.com/hewigovens/miso) - Method Input Switch Overlay
-- [🔍 BTMParser](https://github.com/hewigovens/BTMParser) – Parse BTM (Binary Task Manager) files.
-- [📱 LSAppCategory](https://github.com/hewigovens/LSAppCategory) – Categorize macOS applications.
+### Rust Libraries & Tools
+- [🔐 hw-core](https://github.com/hewigovens/hw-core) – Cross-platform hardware wallet interface with Trezor Host Protocol support.
+- [🧵 amux](https://github.com/hewigovens/amux) – Agent multiplexer CLI for wrangling local AI/code agents in tmux.
 - [⛓️ solana-primitives](https://github.com/hewigovens/solana-primitives) – Core primitives for Solana blockchain development.
-- [🕵️ app-detective](https://github.com/hewigovens/app-detective) – Analyze and investigate applications.
-- [🚀 StagedLauncher](https://github.com/hewigovens/StagedLauncher) – Staged application launcher for macOS.
+- [🦀 reqwest-enum](https://github.com/hewigovens/reqwest-enum) – Type-safe, enum-style HTTP API for reqwest.
+- [📦 aya-devcontainer](https://github.com/hewigovens/aya-devcontainer) – Pre-configured Docker image for eBPF programming with Rust.
+
+### macOS Apps
+- [🌐 MISO](https://github.com/hewigovens/Miso) – Lightweight menu bar HUD overlay for quick input method switching.
+- [🕵️ app-detective](https://github.com/hewigovens/app-detective) – Detect macOS apps' GUI tech stack.
+- [👻 ghosttile-cli](https://github.com/hewigovens/ghosttile-cli) – Hide apps from the macOS Dock (CLI, menu bar app, and Raycast extension).
+- [🚀 StagedLauncher](https://github.com/hewigovens/StagedLauncher) – Manage and delay app launches across stages on your Mac.
+
+### iOS Apps
+- [🕐 anytime](https://github.com/hewigovens/anytime) – Timezone-aware world clock for Mac and iPhone.
+- [🔍 inspect](https://github.com/hewigovens/inspect) – iOS/macOS app with Safari web extension, share extension, and passive TLS monitoring for HTTPS certificates.
+
+### Misc
+- [🔧 BTMParser](https://github.com/hewigovens/BTMParser) – Parse BTM (Binary Task Manager) files on macOS.
+- [📱 LSAppCategory](https://github.com/hewigovens/LSAppCategory) – LSApplicationCategoryType lookup for macOS apps.
+
+### Fork Patches
+- [🖥️ github-desktop](https://github.com/hewigovens/github-desktop) – Added [Open Repository in New Window](https://github.com/desktop/desktop/issues/3606#issuecomment-4043016728) support.
+- [🔀 diffnav](https://github.com/hewigovens/diffnav) – Added difftastic as a diff engine.
 
 ## 🏛️ Previous Work
 
-As a former staff blockchain engineer at Trust Wallet, I contributed and open sourced a significant amount of code:
+As a former staff blockchain engineer at Trust Wallet, I shipped and maintained critical infrastructure used by millions:
+- [📱 Trust Wallet iOS](https://github.com/trustwallet/trust-wallet-ios) – One of the most-used mobile wallets (active since 2018).
+- [🏛️ Wallet Core](https://github.com/trustwallet/wallet-core) – Cross-chain/core library powering the extension + mobile apps.
+- [🏛️ WalletConnect Swift](https://github.com/trustwallet/wallet-connect-swift) – First usable WalletConnect v1 SDK in Swift.
+- [📦 Trust Web3 Provider](https://github.com/trustwallet/trust-web3-provider) – Multi-platform Web3 provider.
+- [📦 ens-coincodec](https://github.com/trustwallet/ens-coincodec) – ENS address encoding/decoding.
+- [📦 blockbook](https://github.com/trezor/blockbook) – Trezor address/account backend.
+- …and a handful of redacted-but-impactful contributions.
 
-- [📱 Trust Wallet iOS](https://github.com/trustwallet/trust-wallet-ios) – One of the most widely used mobile wallets (active since 2018).
-- [🏛️ Wallet Core](https://github.com/trustwallet/wallet-core) – Cross-chain and cross-platform core library for browser extension and mobile apps.
-- [🏛️ WalletConnect](https://github.com/trustwallet/wallet-connect-swift) – First usable WalletConnect v1 Swift SDK.
-- [📦 Trust Web3 Provider](https://github.com/trustwallet/trust-web3-provider) – Web3 provider library for multiple platforms.
-- [📦 ens-coincodec](https://github.com/trustwallet/ens-coincodec) – ENS address encoding and decoding library.
-- [📦 blockbook](https://github.com/trezor/blockbook) – Trezor address/account balance backend.
-
-A few free macOS and iOS apps I built in my early days:
-- [GhostTile](https://ghosttile.kernelpanic.im/)
-- [Inspect](https://apps.apple.com/us/app/inspect-view-tls-certificate/id1074957486)
-- [Anytime](https://apps.apple.com/us/app/anytime-timezone-calculator/id1291735859)
+Free macOS and iOS apps, still actively maintained:
+- [GhostTile](https://ghosttile.kernelpanic.im/) – Hide apps from the macOS Dock.
+- [Inspect](https://apps.apple.com/us/app/inspect-view-tls-certificate/id1074957486) – HTTPS certificate inspector.
+- [Anytime](https://apps.apple.com/us/app/anytime-timezone-calculator/id1291735859) – Timezone-aware world clock.
 
 ## 🛠️ Tech Stack
+
+**AI Coding Agents:**
+<p>
+  <img alt="Claude Code" src="https://img.shields.io/badge/-Claude%20Code-d97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img alt="Codex" src="https://img.shields.io/badge/-Codex-412991?style=flat-square&logo=openai&logoColor=white" />
+</p>
 
 **Languages:**
 <p>
@@ -58,6 +78,10 @@ A few free macOS and iOS apps I built in my early days:
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
 </p>
 
+## 💖 Sponsor
+
+If my work powers your stack or inspires you, consider [sponsoring](https://github.com/sponsors/hewigovens) so I can keep shipping. Every sponsorship goes directly into more OSS time: shipping new libraries, improving docs, responding to issues, and mentoring developers exploring crypto + agents.
+
 ## 📬 Contact
 
 <a href="https://t.me/hewig" target="_blank">
@@ -69,6 +93,3 @@ A few free macOS and iOS apps I built in my early days:
 <a href="https://warpcast.com/h1" target="_blank">
   <img alt="Farcaster" src="https://img.shields.io/badge/farcaster-855DCD?style=for-the-badge&logo=farcaster&logoColor=white" />
 </a>
-<!-- <a href="https://mastodon.social/@hewigovens" target="_blank">
-  <img alt="Mastodon" src="https://img.shields.io/badge/mastodon-%236364FF?style=for-the-badge&logo=mastodon&logoColor=white" />
-</a> -->
