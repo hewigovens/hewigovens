@@ -24,6 +24,7 @@ Tokyo-based 🥷 engineer focused on open-source wallets, cryptography, and tool
 - [📦 aya-devcontainer](https://github.com/hewigovens/aya-devcontainer) – Pre-configured Docker image for eBPF programming with Rust.
 
 ### macOS Apps
+- [🐦 jayjay](https://github.com/hewigovens/jayjay) – Native macOS GUI for Jujutsu (jj) version control. Rust core + SwiftUI shell.
 - [🌐 MISO](https://github.com/hewigovens/Miso) – Lightweight menu bar HUD overlay for quick input method switching.
 - [🕵️ app-detective](https://github.com/hewigovens/app-detective) – Detect macOS apps' GUI tech stack.
 - [👻 ghosttile-cli](https://github.com/hewigovens/ghosttile-cli) – Hide apps from the macOS Dock (CLI, menu bar app, and Raycast extension).
