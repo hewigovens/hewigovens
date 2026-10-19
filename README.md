@@ -31,6 +31,7 @@ Tokyo-based 🥷 engineer focused on open-source wallets, cryptography, and tool
 - [🚀 StagedLauncher](https://github.com/hewigovens/StagedLauncher) – Manage and delay app launches across stages on your Mac.
 
 ### iOS Apps
+- [🎧 hearvia](https://github.com/hewigovens/hearvia) – Live translated subtitles for anything you hear, on iPhone and Mac. Apple on-device, OpenAI Realtime, Gemini Live, or a local model. [Public beta on TestFlight](https://testflight.apple.com/join/GZddk344).
 - [🕐 anytime](https://github.com/hewigovens/anytime) – Timezone-aware world clock for Mac and iPhone.
 - [🔍 inspect](https://github.com/hewigovens/inspect) – iOS/macOS app with Safari web extension, share extension, and passive TLS monitoring for HTTPS certificates.
 
