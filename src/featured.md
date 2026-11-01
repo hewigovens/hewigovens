@@ -1,0 +1,6 @@
+- [🐦 jayjay](https://github.com/hewigovens/jayjay) – Native macOS GUI for Jujutsu (jj) version control. Rust core + SwiftUI shell.
+- [🎧 hearvia](https://github.com/hewigovens/hearvia) – Live translated subtitles for anything you hear, on iPhone and Mac.
+- [🔐 hw-core](https://github.com/hewigovens/hw-core) – Cross-platform hardware wallet interface with Trezor Host Protocol support.
+- [🧮 clifpad](https://github.com/hewigovens/clifpad) – Native scratchpad for Cranelift IR, with an MCP server for coding agents.
+- [🕵️ app-detective](https://github.com/hewigovens/app-detective) – Detect macOS apps' GUI tech stack.
+- [🔏 Crypto Playground](https://crypto-learn.hewig.dev) – Interactive, visual cryptography from Caesar ciphers to SNARKs and lattices.

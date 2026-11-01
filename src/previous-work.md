@@ -6,8 +6,3 @@ As a former staff blockchain engineer at Trust Wallet, I shipped and maintained 
 - [📦 ens-coincodec](https://github.com/trustwallet/ens-coincodec) – ENS address encoding/decoding.
 - [📦 blockbook](https://github.com/trezor/blockbook) – Trezor address/account backend.
 - …and a handful of redacted-but-impactful contributions.
-
-Free macOS and iOS apps, still actively maintained:
-- [GhostTile](https://ghosttile.kernelpanic.im/) – Hide apps from the macOS Dock.
-- [Inspect](https://apps.apple.com/us/app/inspect-view-tls-certificate/id1074957486) – HTTPS certificate inspector.
-- [Anytime](https://apps.apple.com/us/app/anytime-timezone-calculator/id1291735859) – Timezone-aware world clock.

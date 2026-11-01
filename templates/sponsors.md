@@ -2,9 +2,11 @@
 
 {{#include ../src/intro.md}}
 
-### What I'm Building Right Now
+### Featured Work
 
-{{#include ../src/projects.md}}
+{{#include ../src/featured.md}}
+
+[All projects](https://github.com/hewigovens).
 
 ### Proven Open-Source Track Record
 
