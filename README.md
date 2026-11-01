@@ -5,15 +5,6 @@
 
 Tokyo-based 🥷 engineer focused on open-source wallets, cryptography, and tooling. I'm currently deep in Rust, ZK, and LLM agents—building in public and sharing everything I learn.
 
-<details>
-  <summary>Check out my latest starred repos</summary>
-  <a href="https://github.com/hewigovens?tab=stars">
-    <img src="https://badges.pufler.dev/last-stars/hewigovens?count=6&padding=15&perRow=3" />
-  </a>
-</details>
-
-<br />
-
 ## 🚀 Build in Public
 
 ### Rust Libraries & Tools
@@ -25,23 +16,33 @@ Tokyo-based 🥷 engineer focused on open-source wallets, cryptography, and tool
 
 ### macOS Apps
 - [🐦 jayjay](https://github.com/hewigovens/jayjay) – Native macOS GUI for Jujutsu (jj) version control. Rust core + SwiftUI shell.
+- [🚀 Remote Launcher](https://github.com/hewigovens/remote-launcher) Native macOS launcher for multiple High Performance Screen Sharing sessions.
 - [🌐 MISO](https://github.com/hewigovens/Miso) – Lightweight menu bar HUD overlay for quick input method switching.
 - [🕵️ app-detective](https://github.com/hewigovens/app-detective) – Detect macOS apps' GUI tech stack.
 - [👻 ghosttile-cli](https://github.com/hewigovens/ghosttile-cli) – Hide apps from the macOS Dock (CLI, menu bar app, and Raycast extension).
 - [🚀 StagedLauncher](https://github.com/hewigovens/StagedLauncher) – Manage and delay app launches across stages on your Mac.
 
 ### iOS Apps
-- [🎧 hearvia](https://github.com/hewigovens/hearvia) – Live translated subtitles for anything you hear, on iPhone and Mac. Apple on-device, OpenAI Realtime, Gemini Live, or a local model. [Public beta on TestFlight](https://testflight.apple.com/join/GZddk344).
+- [🎧 hearvia](https://github.com/hewigovens/hearvia) – Live translated subtitles for anything you hear, on iPhone and Mac. Apple on-device, OpenAI Realtime, Gemini Live, or a local model.
 - [🕐 anytime](https://github.com/hewigovens/anytime) – Timezone-aware world clock for Mac and iPhone.
 - [🔍 inspect](https://github.com/hewigovens/inspect) – iOS/macOS app with Safari web extension, share extension, and passive TLS monitoring for HTTPS certificates.
 
+### Web Apps
+- [🧪Zoey's Lab](https://zoeyslab.com) - Educational free web app built with my daughter 
+- [🏯 Budokan event today](https://budokan.hewig.dev) - Quick way to view today's event in Budokan
+
 ### Misc
+- [🔤 Hanori](https://github.com/hewigovens/hanori-sans) - Experimental English font
 - [🔧 BTMParser](https://github.com/hewigovens/BTMParser) – Parse BTM (Binary Task Manager) files on macOS.
 - [📱 LSAppCategory](https://github.com/hewigovens/LSAppCategory) – LSApplicationCategoryType lookup for macOS apps.
 
 ### Fork Patches
 - [🖥️ github-desktop](https://github.com/hewigovens/github-desktop) – Added [Open Repository in New Window](https://github.com/desktop/desktop/issues/3606#issuecomment-4043016728) support.
 - [🔀 diffnav](https://github.com/hewigovens/diffnav) – Added difftastic as a diff engine.
+
+## 💖 Sponsor
+
+If my work powers your stack or inspires you, consider [sponsoring](https://github.com/sponsors/hewigovens) so I can keep shipping. Every sponsorship goes directly into more OSS time: shipping new libraries, improving docs, responding to issues, and mentoring developers exploring crypto + agents.
 
 ## 🏛️ Previous Work
 
@@ -54,35 +55,12 @@ As a former staff blockchain engineer at Trust Wallet, I shipped and maintained 
 - [📦 blockbook](https://github.com/trezor/blockbook) – Trezor address/account backend.
 - …and a handful of redacted-but-impactful contributions.
 
-Free macOS and iOS apps, still actively maintained:
-- [GhostTile](https://ghosttile.kernelpanic.im/) – Hide apps from the macOS Dock.
-- [Inspect](https://apps.apple.com/us/app/inspect-view-tls-certificate/id1074957486) – HTTPS certificate inspector.
-- [Anytime](https://apps.apple.com/us/app/anytime-timezone-calculator/id1291735859) – Timezone-aware world clock.
-
 ## 🛠️ Tech Stack
 
-**AI Coding Agents:**
 <p>
   <img alt="Claude Code" src="https://img.shields.io/badge/-Claude%20Code-d97757?style=flat-square&logo=anthropic&logoColor=white" />
   <img alt="Codex" src="https://img.shields.io/badge/-Codex-412991?style=flat-square&logo=openai&logoColor=white" />
 </p>
-
-**Languages:**
-<p>
-  <img alt="C++" src="https://img.shields.io/badge/-C++-e05273?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img alt="Swift" src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
-  <img alt="Rust" src="https://img.shields.io/badge/-Rust-d29c7c?style=flat-square&logo=rust&logoColor=white" />
-  <img alt="Go" src="https://img.shields.io/badge/-Go-3da1d0?style=flat-square&logo=go&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
-  <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-</p>
-
-## 💖 Sponsor
-
-If my work powers your stack or inspires you, consider [sponsoring](https://github.com/sponsors/hewigovens) so I can keep shipping. Every sponsorship goes directly into more OSS time: shipping new libraries, improving docs, responding to issues, and mentoring developers exploring crypto + agents.
 
 ## 📬 Contact
 
@@ -91,7 +69,4 @@ If my work powers your stack or inspires you, consider [sponsoring](https://gith
 </a>
 <a href="https://twitter.com/hewigovens" target="_blank">
   <img alt="Twitter" src="https://img.shields.io/badge/twitter-gray?style=for-the-badge&logo=x" />
-</a>
-<a href="https://warpcast.com/h1" target="_blank">
-  <img alt="Farcaster" src="https://img.shields.io/badge/farcaster-855DCD?style=for-the-badge&logo=farcaster&logoColor=white" />
 </a>
